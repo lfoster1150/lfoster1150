@@ -1,7 +1,5 @@
 ### Howdy! I'm Luke, a Software Engineer with a background in Manufacturing and Electrical Engineering and an obsession with learning new skills and technologies.
 ___
-### I’m currently taking a deeper dive into: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-___
 ### My Github Stats:
 ![#](https://github-readme-stats.vercel.app/api?username=lfoster1150&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark)
 ![#](https://github-readme-stats.vercel.app/api/top-langs/?username=Rpcraig123&layout=compact&theme=vue-dark)
