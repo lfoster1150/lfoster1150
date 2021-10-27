@@ -1,21 +1,19 @@
 ### Howdy! I'm Luke, a Software Engineer with a background in Manufacturing and Electrical Engineering and an obsession with learning new skills and technologies.
 ___
-## I’m currently taking a deeper dive into...
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+### I’m currently taking a deeper dive into: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ___
-## My Github Stats:
+### My Github Stats:
 ![#](https://github-readme-stats.vercel.app/api?username=lfoster1150&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark)
 ![#](https://github-readme-stats.vercel.app/api/top-langs/?username=Rpcraig123&layout=compact&theme=vue-dark)
 ___
-## How to reach me:
+### How to reach me:
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=flat)](https://www.lukefoster.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-foster11/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/lfoster1150)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lfoster1150@gmail.com)
 
 ___
-## Skills:
+### Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
