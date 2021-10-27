@@ -1,4 +1,4 @@
-## Howdy! I'm Luke, a Software Engineer with a background in Manufacturing and Electrical Engineering and an obsession with learning new skills and technologies.
+### Howdy! I'm Luke, a Software Engineer with a background in Manufacturing and Electrical Engineering and an obsession with learning new skills and technologies.
 ___
 ## I’m currently taking a deeper dive into...
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
