@@ -1,4 +1,4 @@
-### Howdy! I'm Luke, a Software Engineer with a background in Manufacturing and Electrical Engineering and an obsession with learning new skills and technologies...
+### Howdy! I'm Luke, a Software Engineer with a background in Manufacturing and Electrical Engineering and an obsession with learning new skills and technologies.
 ___
 ### My Github Stats:
 ![#](https://github-readme-stats.vercel.app/api?username=lfoster1150&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark)
