@@ -2,7 +2,7 @@
 ___
 ### My Github Stats:
 ![#](https://github-readme-stats.vercel.app/api?username=lfoster1150&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark)
-![#](https://github-readme-stats.vercel.app/api/top-langs/?username=lfoster1150&layout=compact&theme=vue-dark)
+![#](https://github-readme-stats.vercel.app/api/top-langs/?username=lfoster1150&layout=compact&theme=vue-dark&include_all_commits=true&count_private=true)
 ___
 ### How to reach me:
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=flat)](https://www.lukefoster.dev/)
