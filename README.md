@@ -30,7 +30,7 @@ ___
 ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazon-aws&logoColor=FEBD69)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![NodeJS](https://img.shields.io/badge/Node-6DA55F?style=flat&logo=node.js&logoColor=white)'
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 ![Python](https://img.shields.io/badge/Python3-3670A0?style=flat&logo=python&logoColor=ffdd54)
